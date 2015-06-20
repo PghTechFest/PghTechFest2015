@@ -1,0 +1,4 @@
+chucksay:
+  build: .
+  ports:
+    - "8080:4567"
